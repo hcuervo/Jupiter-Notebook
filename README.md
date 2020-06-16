@@ -1,3 +1,3 @@
-# Jupiter-Notebook
+# Jupyter-Notebook
 
 Ejemplos de Notebooks
